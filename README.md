@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the thesis
+- 🔭 I’m currently working on the thesis  
 
-[![Xin's github stats](https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/XinYao1994/github-readme-stats)  
+[![GitHub XinYao1994](https://img.shields.io/github/followers/XinYao1994?label=follow&style=social)](https://github.com/XinYao1994)  
+
+[![Xin's github stats](https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true)](https://github.com/XinYao1994/github-readme-stats)  
+
 
 
