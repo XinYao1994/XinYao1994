@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the thesis  
+- 🔭 I’m currently working on the metadata compression  
 
 [![GitHub XinYao1994](https://img.shields.io/github/followers/XinYao1994?label=follow&style=social)](https://github.com/XinYao1994)  
 
