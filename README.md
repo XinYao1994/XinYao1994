@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the following topic:
+   -  federated learning
    -  metadata compression  
    -  cache prefetching
    -  compiler  
