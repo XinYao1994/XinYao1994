@@ -47,8 +47,8 @@ Here are some ideas to get you started:
     </p>
   </div>
   <div style="flex:1;">
-    <a href=""><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4" width="100%"/></a>
-    <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true" width="100%"/></a>
+    <a href=""><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4" width="40%"/></a>
+    <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true" width="40%"/></a>
   </div>
 </div>
 
