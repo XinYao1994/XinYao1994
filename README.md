@@ -23,9 +23,9 @@ Here are some ideas to get you started:
    -  ChatGPT 
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4" style="float:left; margin-right:10px; weight:50%;">
+  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4">
 
-  <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true" style="float:right; margin-left:10px; weight:50%; ">
+  <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true">
 </div>
 
 <div align="center">
