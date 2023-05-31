@@ -12,20 +12,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub XinYao1994](https://img.shields.io/github/followers/XinYao1994?label=follow&style=social)](https://github.com/XinYao1994)  
-[My Academic Page](https://xinyao1994.github.io/xyaocs/) 
-- 🔭 I’m currently working on the following topic:
-   -  federated learning
-   -  metadata compression  
-   -  cache prefetching
-   -  compiler  
-   -  DPU 
-   -  ChatGPT 
+[![GitHub XinYao1994](https://img.shields.io/github/followers/XinYao1994?label=follow&style=social)](https://github.com/XinYao1994) 
 
-<div align="center" style="display: flex; flex-direction: row;">
+<!-- <p>
+
+  [My Academic Page](https://xinyao1994.github.io/xyaocs/) 
+🔭 I’m currently working on the following topic:
+   -  DPU 
+   -  compiler  
+   -  Index & metadata compression  
+   -  ChatGPT 
+   -  federated learning
+   -  cache prefetching
+   
+  <a href="" ><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4" width="50%"/>
+  <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true" width="50%"/> 
+  
+</p> -->
+
+<div style="display:flex; flex-wrap:wrap;">
+  <div style="flex:1; margin-right:20px;">
+    <p>
+      <a href="https://xinyao1994.github.io/xyaocs/">My Academic Page</a> 
+      <p>
+      🔭 I’m currently working on the following topic:</p>
+      <ul>
+        <li>DPU</li>
+        <li>compiler</li>
+        <li>Index & metadata compression</li>
+        <li>ChatGPT</li>
+        <li>federated learning</li>
+        <li>cache prefetching</li>
+      </ul>
+    </p>
+  </div>
+  <div style="flex:1;">
+    <a href=""><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4" width="100%"/></a>
+    <a href="https://github.com/XinYao1994/"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true" width="100%"/></a>
+  </div>
+</div>
+
+<!-- <div align="center" style="display: flex; flex-direction: row;">
   <a href="" style="float:left; margin-right:10px; weight:50%;"><img src="https://github-profile-trophy.vercel.app/?username=XinYao1994&column=4">
   <a href="https://github.com/XinYao1994/" style="float:right; margin-right:10px; weight:50%;"><img src="https://github-readme-stats.vercel.app/api?username=XinYao1994&show_icons=true&count_private=true">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/XinYao1994/XinYao1994/blob/master/github-metrics.svg">
