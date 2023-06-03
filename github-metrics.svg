@@ -84,7 +84,7 @@ Relative cooperations are welcome!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2036 Commits
+                            2038 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,7 +192,7 @@ Relative cooperations are welcome!</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    245m added, 62.5m removed
+                                    240m added, 63.7m removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ Relative cooperations are welcome!</div>
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.29628622831194" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="307.29628622831194" y="0" width="285.29563779355345" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="592.5919240218655" y="0" width="113.5297935037827" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="706.1217175256481" y="0" width="104.2493632889902" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="810.3710808146383" y="0" width="68.28298000387436" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="878.6540608185127" y="0" width="15.66158853625715" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="894.3156493547698" y="0" width="14.161049340012793" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="908.4766986947825" y="0" width="11.523301305217382" height="8" fill="#5ce600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.2962333608193" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="307.2962333608193" y="0" width="285.29558871106957" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="592.5918220718888" y="0" width="113.52977397202854" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="706.1215960439174" y="0" width="104.24950363136554" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="810.371099675283" y="0" width="68.28296825641726" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="878.6540679317002" y="0" width="15.661585841825252" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="894.3156537735255" y="0" width="14.161046903734828" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="908.4767006772603" y="0" width="11.523299322739643" height="8" fill="#5ce600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -311,7 +311,7 @@ Relative cooperations are welcome!</div>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.1 characters per line of code written</li>
+                        <li>Has approximately 35.3 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -408,12 +408,12 @@ Relative cooperations are welcome!</div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
+                                <span class="value">6</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
@@ -954,7 +954,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.65m out of 406m repositories</span>
+                                    <span class="gh">ranked 4.72m out of 406m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1012,7 +1012,7 @@ Relative cooperations are welcome!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 20:29:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 21:17:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
