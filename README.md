@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   [My Academic Page](https://xinyao1994.github.io/xyaocs/) 
 🔭 I’m currently working on the following topic:
-   -  DPU 
+   -  DPU / NPU (for ggml project)
    -  compiler  
    -  Index & metadata compression  
    -  ChatGPT 
