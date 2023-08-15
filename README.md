@@ -37,7 +37,7 @@ Here are some ideas to get you started:
       <p>
       🔭 I’m currently working on the following topic:</p>
       <ul>
-        <li>DPU</li>
+        <li>DPU / NPU (for ggml project)</li>
         <li>compiler</li>
         <li>Index & metadata compression</li>
         <li>ChatGPT</li>
