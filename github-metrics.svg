@@ -535,7 +535,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 150k out of 46m repositories</span>
+                                    <span class="gh">ranked 143k out of 45.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">258</div>
                                     </div>
@@ -718,7 +718,7 @@ Relative cooperations are welcome!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 22:16:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 23:17:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
