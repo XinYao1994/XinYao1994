@@ -340,7 +340,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58.7k out of 124m users</span>
+                                    <span class="gh">ranked 58.8k out of 124m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">178</div>
                                     </div>
@@ -512,7 +512,7 @@ Relative cooperations are welcome!</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.27127127127127 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.42642642642643 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -535,12 +535,12 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 147k out of 79.7m repositories</span>
+                                    <span class="gh">ranked 147k out of 72.8m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">267</div>
+                                        <div class="value">268</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 267 stars</div>
+                                <div class="text">Maintaining a repository with 268 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -718,7 +718,7 @@ Relative cooperations are welcome!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2023, 14:20:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 15:14:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
