@@ -420,7 +420,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 57.9k out of 123m users</span>
+                                    <span class="gh">ranked 57.9k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">180</div>
                                     </div>
@@ -615,7 +615,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 145k out of 50.2m repositories</span>
+                                    <span class="gh">ranked 135k out of 41m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">274</div>
                                     </div>
@@ -704,7 +704,7 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 347k out of 123m users</span>
+                                    <span class="gh">ranked 347k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">35</div>
                                     </div>
@@ -798,7 +798,7 @@ Relative cooperations are welcome!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 18:18:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 19:14:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
