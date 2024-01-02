@@ -512,7 +512,7 @@ Relative cooperations are welcome!</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.52952952952953 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.37437437437437 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -535,12 +535,12 @@ Relative cooperations are welcome!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 141k out of 50m repositories</span>
+                                    <span class="gh">ranked 141k out of 56.5m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">288</div>
+                                        <div class="value">287</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 288 stars</div>
+                                <div class="text">Maintaining a repository with 287 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -718,7 +718,7 @@ Relative cooperations are welcome!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 00:19:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 01:15:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
