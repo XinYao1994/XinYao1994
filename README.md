@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 
   [My Academic Page](https://xinyao1994.github.io/xyaocs/) 
 🔭 I’m currently working on the following topic:
-   -  DPU / NPU (for ggml project)
-   -  compiler  
-   -  Index & metadata compression  
+   -  RAG (VectorDB & Knowledge Base)
+   -  Unified Data Formation & Directly Access
+   -  Index & metadata compression 
+   -  DPU / NPU 
+   -  compiler   
+   
+💬 Ask me about old topic: 
    -  ChatGPT 
    -  federated learning
    -  cache prefetching
@@ -35,11 +39,17 @@ Here are some ideas to get you started:
     <p>
       <a href="https://xinyao1994.github.io/xyaocs/">My Academic Page</a> 
       <p>
-      🔭 I’m currently working on the following topic:</p>
+      🔭 I’m currently working on the following topics:</p>
       <ul>
-        <li>DPU / NPU (for ggml project)</li>
+        <li>RAG (VectorDB & Knowledge Base)</li>
+        <li>Unified Data Formation & Directly Access</li>
+        <li>DPU / NPU</li>
         <li>compiler</li>
         <li>Index & metadata compression</li>
+      </ul>
+      <p>
+      💬 Ask me about old topics:</p>
+      <ul>
         <li>ChatGPT</li>
         <li>federated learning</li>
         <li>cache prefetching</li>
