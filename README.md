@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
   [My Academic Page](https://xinyao1994.github.io/xyaocs/) 
 🔭 I’m currently working on the following topic:
-   -  RAG (VectorDB & Knowledge Base)
+   -  Agentic Memory (RAG: VectorDB & Knowledge Base)
+   -  LLM inference (parallel & quantization)
    -  Unified Data Formation & Directly Access
    -  Index & metadata compression 
-   -  DPU / NPU 
-   -  compiler   
+   -  DPU / NPU (compiler) 
    
 💬 Ask me about old topic: 
    -  ChatGPT 
